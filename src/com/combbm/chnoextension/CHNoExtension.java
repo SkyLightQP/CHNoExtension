@@ -15,7 +15,7 @@ public class CHNoExtension extends AbstractExtension {
 
 
     public Version getVersion() {
-        return new SimpleVersion(1, 0, 0);
+        return new SimpleVersion(1, 1, 0);
     }
 
     public void onStartup() {
